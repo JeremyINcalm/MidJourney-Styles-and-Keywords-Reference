@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_v1-v4_inactive_half.webp?raw=true" alt="V1 - V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_v1-v4_inactive_half.webp?raw=true" alt="V1 - V4" height="64" />](/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_test_testp_creative_active_half.webp?raw=true" alt="Test, Testp, Creative" height="64" />]()
 
 </div>

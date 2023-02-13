@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64" />]()
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Comparison_Pages/Parameters/Quality_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Parameters/Quality_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64" />]()
 
 </div>
 
@@ -27,15 +27,15 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_0.25.png?raw=true" width="256" />
+            <img src="/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_0.25.png?raw=true" width="256" />
             <br><code>25%</code>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_0.5.png?raw=true" width="256" />
+            <img src="/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_0.5.png?raw=true" width="256" />
             <br><code>50%</code>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_1.png?raw=true" width="256" />
+            <img src="/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_1.png?raw=true" width="256" />
             <br><code>100% (Default)</code>
         </td>
     </tr>
@@ -50,11 +50,11 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_2.png?raw=true" width="256" />
+            <img src="/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_2.png?raw=true" width="256" />
             <br><code>200%</code>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_5.png?raw=true" width="256" />
+            <img src="/Images/Niji_Journey/Comparison_Page_Images/Quality_Comparison/Anime_quality_5.png?raw=true" width="256" />
             <br><code>500%</code>
         </td>
     </tr>

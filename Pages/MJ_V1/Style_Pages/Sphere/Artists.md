@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_active.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_active.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Artists.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Sphere/Artists.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_full.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Artists.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_full.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Style_Pages/Artists.md)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 	| Painting By Ivan Shishkin | Painting By Zdzislaw Beksinski |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Ivan_Shishkin.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Zdzislaw_Beksinski.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Ivan_Shishkin.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Zdzislaw_Beksinski.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Painting By Edward Hopper |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Edward_Hopper.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Edward_Hopper.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -33,7 +33,7 @@
 
 	| Painting By Salvador Dali | Painting By Pablo Picasso |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Salvador_Dali.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Pablo_Picasso.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Salvador_Dali.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Pablo_Picasso.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -42,7 +42,7 @@
 
 	| Painting By Wassily Kandinsky | Painting By Marcia Santore |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Wassily_Kandinsky.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Marcia_Santore.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Wassily_Kandinsky.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Marcia_Santore.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -51,7 +51,7 @@
 
 	| Painting By Van Gogh |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Van_Gogh.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Van_Gogh.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -60,7 +60,7 @@
 
 	| Painting By Wes Anderson |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Wes_Anderson.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Wes_Anderson.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -69,7 +69,7 @@
 
 	| Painting By Albert Bierstadt | Painting By Thomas Kinkade |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Albert_Bierstadt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Thomas_Kinkade.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Albert_Bierstadt.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Thomas_Kinkade.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -78,7 +78,7 @@
 
     | Painted By Affadi | Painted By Alexej Von Jawlensky |
     | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Affadi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alexej_Von_Jawlensky.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alice_Neel.png?raw=true" width="256" /> |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Affadi.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alexej_Von_Jawlensky.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alice_Neel.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -87,7 +87,7 @@
 
 	| Painting By Alex Grey | Painting By Dan Mumford |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Alex_Grey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Dan_Mumford.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Alex_Grey.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Dan_Mumford.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -96,7 +96,7 @@
 
 	| Painted By Andy Worhol | Painting By David Hockney |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Andy_Worhol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_David_Hockney.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Andy_Worhol.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_David_Hockney.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -105,7 +105,7 @@
 	
 	| Art By Jean Tinguely |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Jean_Tinguely.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Jean_Tinguely.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -114,7 +114,7 @@
 
     | Painted By Alena Aenami |
 	| :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alena_Aenami.png?raw=true" width="256" /> |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Alena_Aenami.png?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -123,13 +123,13 @@
 
 	| Painting By Junji Ito |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Junji_Ito.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Junji_Ito.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Angus_McKie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Akari_Toriyama.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Al_Williamson.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Angus_McKie.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Akari_Toriyama.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Al_Williamson.png?raw=true" width="256" /> |
 	
   </div></p></details>
 
@@ -140,7 +140,7 @@
 
         | Art By Alberto Giacometti | Art By Alexander Milne Calder |
         | :-: | :-: |
-        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Alberto_Giacometti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Alexander_Milne_Calder.png?raw=true" width="256" /> |
+        | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Alberto_Giacometti.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Alexander_Milne_Calder.png?raw=true" width="256" /> |
 
       </div></p></details>
 
@@ -148,7 +148,7 @@
 
         | Art By Anne McCaffrey |
         | :-: |
-        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Anne_McCaffrey.png?raw=true" width="256" /> |
+        | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_Anne_McCaffrey.png?raw=true" width="256" /> |
 
       </div></p></details>
 
@@ -159,18 +159,18 @@
 
 	| Painting By Bob Ross | Art By M.C. Escher |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Bob_Ross.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_M.C._Escher.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painting_By_Bob_Ross.png?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_By_M.C._Escher.png?raw=true" width="256" /> |
 	
 	<br>
 
 	| Painted By Anna Dittmann |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Anna_Dittmann.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Anna_Dittmann.png?raw=true" width="256" /> |
 	<br>
 	
 	| Painted By Squidward Tentacles |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Squidward_Tentacles.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Painted_By_Squidward_Tentacles.png?raw=true" width="256" /> |
 
   </div></p></details>
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />]()
+[<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />]()
 
 </div>
 
@@ -12,7 +12,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sphere.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Sphere.png?raw=true" width="256" /> |
 
 </div></p></details>
 
@@ -24,7 +24,7 @@
 
 	| Photorealistic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Photorealistic.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Photorealistic.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -35,7 +35,7 @@
 
 	| Retro |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Retro.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Retro.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -44,7 +44,7 @@
 
 	| Sci-fi |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sci-fi.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Sci-fi.png?raw=true" width="256" /> |
 
 
 	</div></p></details>
@@ -54,7 +54,7 @@
 
 	| Steampunk |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Steampunk.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Steampunk.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -63,13 +63,13 @@
 
 	| Disco |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Disco.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Disco.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Vaporwave |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Vaporwave.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Vaporwave.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -78,7 +78,7 @@
 
 	| Cartoon |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Cartoon.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Cartoon.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -87,7 +87,7 @@
 
 	| Fractalpunk |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Fractalpunk.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Fractalpunk.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -103,19 +103,19 @@
 
 	| Hyperdetailed |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Hyperdetailed.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Hyperdetailed.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Intricate Surface Detail |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Intricate_Surface_Detail.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Intricate_Surface_Detail.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Flat Design |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Flat_Design.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Flat_Design.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -124,13 +124,13 @@
 
 	| Halftone |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Halftone.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Halftone.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Diffraction Patterns |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Diffraction_Patterns.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Diffraction_Patterns.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -139,7 +139,7 @@
 
 	| Cubism |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Cubism.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Cubism.png?raw=true" width="256" /> |
 
 	</div></p></details>
 	
@@ -148,7 +148,7 @@
 
 	| Neo-Tokyo |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Neo-Tokyo.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Neo-Tokyo.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -157,13 +157,13 @@
 
 	| Psychedelica |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Psychedelica.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Psychedelica.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Sacred Geometry |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sacred_Geometry.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Sacred_Geometry.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -172,7 +172,7 @@
 
 	| Synesthesia |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Synesthesia.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Synesthesia.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -181,19 +181,19 @@
 
 	| Extreme Bubble Design |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Extreme_Bubble_Design.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Extreme_Bubble_Design.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Liquify |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Liquify.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Liquify.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Lissajous |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Lissajous.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Lissajous.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -208,7 +208,7 @@
 
 	| 8-bit |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/8-bit.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/8-bit.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -217,7 +217,7 @@
 
 	| Cyberdelic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Cyberdelic.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Cyberdelic.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -226,7 +226,7 @@
 
 	| Microsoft Paint |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Microsoft_Paint.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Microsoft_Paint.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -235,13 +235,13 @@
 
 	| Lowpoly |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Lowpoly.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Lowpoly.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Pixel Art |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Pixel_Art.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Pixel_Art.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -250,7 +250,7 @@
 
 	| Floyd–Steinberg Dithering |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/FloydSteinberg_Dithering.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/FloydSteinberg_Dithering.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -259,7 +259,7 @@
 
 	| Databending |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Databending.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Databending.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -268,7 +268,7 @@
 
 	| Deep Dream |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Deep_Dream.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Deep_Dream.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -277,7 +277,7 @@
 
 	| Tetris |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Tetris.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Tetris.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -293,7 +293,7 @@
 
 	| Painting By Salvador Dali |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Painting_By_Salvador_Dali.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Painting_By_Salvador_Dali.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -302,7 +302,7 @@
 
 	| Art By M.C. Escher |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Art_By_M.C._Escher.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Art_By_M.C._Escher.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -319,13 +319,13 @@
 
 		| Sketch |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sketch.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Sketch.png?raw=true" width="256" /> |
 
 		<br>
 
 		| Stipple |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Stipple.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Stipple.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -334,7 +334,7 @@
 
 		| Colored Pencil |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Colored_Pencil.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Colored_Pencil.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -343,7 +343,7 @@
 
 		| Ballpoint Pen |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ballpoint_Pen.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Ballpoint_Pen.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -356,7 +356,7 @@
 
 		| Paper-Marbling |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Paper-Marbling.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Paper-Marbling.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -365,7 +365,7 @@
 
 		| Splatter Paint |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Splatter_Paint.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Splatter_Paint.png?raw=true" width="256" /> |
 		
 	  </div></p></details>
 	
@@ -378,7 +378,7 @@
 
 		| Wall Decal |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Wall_Decal.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Wall_Decal.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -387,13 +387,13 @@
 
 		| Bejeweled |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Bejeweled.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Bejeweled.png?raw=true" width="256" /> |
 
 		<br>
 
 		| Carved Lacquer |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Carved_Lacquer.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Carved_Lacquer.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -401,7 +401,7 @@
 
 		| Bone China |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Bone_China.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Bone_China.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 	
@@ -418,7 +418,7 @@
 
 	| Spectrum |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Spectrum.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Spectrum.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -427,7 +427,7 @@
 
 	| Electric Colors |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Electric_Colors.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Electric_Colors.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -444,13 +444,13 @@
 
 		| Brushed Aluminum |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Brushed_Aluminum.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Brushed_Aluminum.png?raw=true" width="256" /> |
 
 		<br>
 
 		| Anodized Titanium |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Anodized_Titanium.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Anodized_Titanium.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -459,13 +459,13 @@
 
 		| Amethyst |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Amethyst.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Amethyst.png?raw=true" width="256" /> |
 
 		<br>
 
 		| Agate |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Agate.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Agate.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -476,7 +476,7 @@
 
 	| Liquid Crystal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Liquid_Crystal.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Liquid_Crystal.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -487,7 +487,7 @@
 
 		| Kapton Tape |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Kapton_Tape.png?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Kapton_Tape.png?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -504,7 +504,7 @@
 
 	| Glitter |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Glitter.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Glitter.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -513,7 +513,7 @@
 
 	| Glossy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Glossy.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Glossy.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -522,7 +522,7 @@
 
 	| Cracked |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Cracked.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Cracked.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -537,7 +537,7 @@
 
 	| Crepuscular Rays |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Crepuscular_Rays.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Crepuscular_Rays.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -552,7 +552,7 @@
 
 	| Ray Tracing Reflections |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ray_Tracing_Reflections.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Ray_Tracing_Reflections.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -561,13 +561,13 @@
 
 	| Scan Lines |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Scan_Lines.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Scan_Lines.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Tessellated |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Tessellated.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Tessellated.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -576,7 +576,7 @@
 
 	| Ray Traced |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -591,13 +591,13 @@
 
 	| Autumn |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Autumn.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Autumn.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Tornado |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Tornado.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Tornado.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -613,7 +613,7 @@
 
 	| Halloween |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Halloween.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Halloween.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -629,7 +629,7 @@
 
 	| Galaxy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Galaxy.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Galaxy.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -645,7 +645,7 @@
 
 	| Bokeh |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Bokeh.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Bokeh.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -653,7 +653,7 @@
 
 	| Polaroid |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Polaroid.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Polaroid.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -661,7 +661,7 @@
 
 	| Super-Resolution Microscopy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Super-Resolution_Microscopy.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Super-Resolution_Microscopy.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -670,7 +670,7 @@
 
 	| Lens Flare |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Lens_Flare.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Lens_Flare.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -685,7 +685,7 @@
 
 	| Hexagon |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Hexagon.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Hexagon.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -694,7 +694,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sphere.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Sphere.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -703,7 +703,7 @@
 
 	| Klein Bottle |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Klein_Bottle.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Klein_Bottle.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -712,7 +712,7 @@
 
 	| Polygonal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Polygonal.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Polygonal.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -727,7 +727,7 @@
 
 	| Celtic Knot |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Celtic_Knot.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Celtic_Knot.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -742,7 +742,7 @@
 
 	| Angelic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Angelic.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_hd/Angelic.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
